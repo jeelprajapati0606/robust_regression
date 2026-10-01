@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/📓%20View%20Notebook-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="YOUR_VIDEO_LINK">
+<a href="https://www.dropbox.com/scl/fi/qukc6sswfigj93ti7ddi7/robust_regression.mp4?rlkey=088n8yo7wlpvu6lwiipjjl10i&st=w3c541lx&dl=0">
   <img src="https://img.shields.io/badge/▶️%20Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
