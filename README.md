@@ -24,7 +24,7 @@
 </a>
 
 <a href="https://www.dropbox.com/scl/fi/qukc6sswfigj93ti7ddi7/robust_regression.mp4?rlkey=088n8yo7wlpvu6lwiipjjl10i&st=w3c541lx&dl=0">
-  <img src="https://img.shields.io/badge/▶️%20Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  <img src="https://img.shields.io/badge/▶️%20Watch%20Demo-FF0000?style=for-the-badge&logo">
 </a>
 
 <a href="https://github.com/jeelprajapati0606/robust_regression/blob/main/robust_regression_engine/Advanced_Regression_HousePrice_Dataset_3800%20-%20Advanced_Regression_HousePrice_Dataset_3800.csv.csv">
